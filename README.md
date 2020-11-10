@@ -1,1 +1,1 @@
-# kanboard
+# kanboard-MyPlugin
